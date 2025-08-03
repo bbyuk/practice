@@ -6,7 +6,8 @@ build/
 
 ### 기존 코드 및 시험 코드 gitignore 추가 ###
 /src/main/java/asis/
-/src/main/java/test/
+/src/main/java/test*
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
